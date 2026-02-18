@@ -20,9 +20,7 @@ A beginner-friendly full-stack recipe project with:
 ![Dashboard](./frontend/src/assets/Dashboard.png)
 
 ## Video
-<video src="./frontend/src/assets/Demo.mp4" controls width="100%"></video>
-
-[Download/Watch Video](./frontend/src/assets/Demo.mp4)
+![Watch Video](./frontend/src/assets/Demo.gif)
 
 ## Project Structure
 
